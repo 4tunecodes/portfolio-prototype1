@@ -1,8 +1,9 @@
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: 'Poppins', sans-serif;
   scroll-behavior: smooth;
 }
 .firstglance {
@@ -332,6 +333,21 @@
 .contact-info-box div{
     display: flex;
     flex-direction: column;
+}
+#web-design{
+    background-image: url('web design.jpg');
+    background-repeat: no-repeat ;
+    background-size: 100% 100%;
+}
+#graphic-design{
+    background-image: url('graphic design.jpg');
+    background-repeat: no-repeat ;
+    background-size: 100% 100%;
+}
+#web-dev{
+    background-image: url('web dev.jpg');
+    background-repeat: no-repeat ;
+    background-size: 100% 100%;
 }
 /*Responsive*/
 
